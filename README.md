@@ -1,4 +1,4 @@
-### Olá! Sou o Gustavo e bem vindo(a) ao meu Github 🤓
+### Olá! Sou o Gustavo e seja bem-vindo(a) ao meu Github 🤓
 
 [![linkedin_logo_1](https://user-images.githubusercontent.com/47873305/114292321-1bdff000-9a64-11eb-944a-92bc50f1a71b.jpg)](https://www.linkedin.com/in/gustavo-mariano/)
 [![instagram](https://user-images.githubusercontent.com/47873305/114292323-1e424a00-9a64-11eb-8cc8-25f732be3617.jpg)](https://www.instagram.com/gustavoomrn/)
