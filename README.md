@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Gustavo Mariano</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gustavomariano&label=Profile%20views&color=0e75b6&style=flat" alt="gustavomariano" /> </p>
+<p align="center"> <https://en.wikipedia.org/wiki/LinkedIn#/media/File:LinkedIn_2021.svg" alt="gustavomariano" /> </p>
 
 <h3 align="center">My social networks:</h3>
 <p align="center">
