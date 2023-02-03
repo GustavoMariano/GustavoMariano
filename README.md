@@ -3,7 +3,7 @@
 
 <h3 align="center">My social networks:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/gustavo-mariano/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="gustavo-mariano/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gustavo-mariano/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="gustavo-mariano/" height="30" width="80" /></a>
 <a href="https://stackoverflow.com/users/15238537" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="15238537" height="30" width="40" /></a>
 <a href="https://www.instagram.com/gumzera_/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" alt="gustavoomrn" height="30" width="40" /></a>
 </p>
