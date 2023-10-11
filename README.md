@@ -1,6 +1,10 @@
 <h1 align="center">Hello, I'm Gustavo Mariano</h1>
 <p align="center"> <https://en.wikipedia.org/wiki/LinkedIn#/media/File:LinkedIn_2021.svg" alt="gustavomariano" /> </p>
 
+<p align="center">
+<a href="https://gcmariano.com" target="blank">My Website</a>
+</p>
+
 <h3 align="center">My social networks:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/gustavo-mariano/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="gustavo-mariano/" height="30" width="80" /></a>
