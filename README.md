@@ -3,7 +3,7 @@
 <h3 align="center">About Me</h3>
 <p align="center">
   Hey, I’m Gustavo Mariano, a Backend Software Engineer based in Brazil.<br>
-  With over 3 years of experience in fintech and B2B, I specialize in crafting scalable solutions using C#, .NET, and cloud technologies. I thrive in collaborative environments, leading teams to deliver high-quality products and leveraging agile methodologies.<br>
+  With over 4 years of experience in fintech and B2B, I specialize in crafting scalable solutions using C#, .NET, and cloud technologies. I thrive in collaborative environments, leading teams to deliver high-quality products and leveraging agile methodologies.<br>
   I’m passionate about solving complex problems and continuously enhancing my skills. Always open to new challenges that push the boundaries of technology.
 </p>
 
