@@ -11,9 +11,9 @@
 
 <h3 align="center">Cool Projects 🛠️</h3>
 <p align="center">
-  - <b>RandomPokemonApi</b>: A fun RESTful API for Pokémon data using C# and Clean Architecture 🐾<br>
   - <b>TCC-PUC-Tech-Barbershop</b>: Barbershop management system with C#, .NET, and Azure 💈<br>
   - <b>Challenges-CSharp</b>: Coding challenges to flex my C# and Xunit skills 💻<br>
+  - <b>RandomPokemonApi</b>: A fun RESTful API for Pokémon data using C# and Clean Architecture 🐾<br>
   <a href="https://github.com/GustavoMariano?tab=repositories">See more on my GitHub</a> ✨
 </p>
 
