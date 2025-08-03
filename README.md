@@ -26,7 +26,9 @@
 
 <h3 align="center">Certifications 🎓</h3>
 <p align="center">
-  <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="Microsoft Certified: Azure Fundamentals" width="150" />
+  <a href="https://learn.microsoft.com/en-us/users/gustavomariano/credentials/b01e03036e9d5d64" target="_blank">
+    <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="Microsoft Certified: Azure Fundamentals" width="150" />
+  </a>
 </p>
 
 <h3 align="center">Let's Connect! 📫</h3>
