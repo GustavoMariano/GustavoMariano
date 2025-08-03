@@ -24,6 +24,11 @@
   <b>Tools:</b> Azure, Docker, CI/CD, Git, TDD (Xunit), Scrum
 </p>
 
+<h3 align="center">Certifications 🎓</h3>
+<p align="center">
+  <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="Microsoft Certified: Azure Fundamentals" width="150" />
+</p>
+
 <h3 align="center">Let's Connect! 📫</h3>
 <p align="center">
   <a href="https://linkedin.com/in/gustavo-mariano">LinkedIn</a> | 
@@ -35,3 +40,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavomariano&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages"/>
 </p>
+
+
