@@ -34,7 +34,6 @@
 <h3 align="center">Let's Connect! 📫</h3>
 <p align="center">
   <a href="https://linkedin.com/in/gustavo-mariano">LinkedIn</a> | 
-  <a href="https://gcmariano.com">Website</a> | 
   Email: gustavocmariano@hotmail.com
 </p>
 
