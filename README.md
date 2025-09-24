@@ -6,14 +6,15 @@
 
 <h3 align="center">About Me</h3>
 <p align="center">
-  I'm a Backend Software Engineer from Brazil with 4+ years of experience in fintech and B2B. I love building scalable solutions with <b>C#</b>, <b>.NET Core</b>, and <b>Microsoft Azure</b> 🌐. Certified in Azure Fundamentals and Software Architecture, I’m all about clean code, TDD, and agile vibes 🚀. Ready for new adventures in São Paulo, RJ, or abroad (US, EU)!
+  I'm a Backend Software Engineer from Brazil with 4+ years of experience in fintech and B2B. I love building scalable solutions with <b>C#</b>, <b>.NET Core</b>, and <b>Microsoft Azure</b> 🌐. Certified in Azure Fundamentals and Software Architecture, I’m all about clean code, TDD, and agile vibes 🚀. Willing to relocate for the right opportunity!
 </p>
 
 <h3 align="center">Cool Projects 🛠️</h3>
 <p align="center">
-  - <b>TCC-PUC-Tech-Barbershop</b>: Barbershop management system with C#, .NET, and Azure 💈<br>
-  - <b>Challenges-CSharp</b>: Coding challenges to flex my C# and Xunit skills 💻<br>
-  - <b>RandomPokemonApi</b>: A fun RESTful API for Pokémon data using C# and Clean Architecture 🐾<br>
+  - <b><a href="https://github.com/GustavoMariano/YuGiOh-Unrestricted">Yu-Gi-Oh! Unrestricted</a></b>: A custom online card game built with Blazor Server, SignalR and EF Core 🎴<br>
+  - <b><a href="https://github.com/GustavoMariano/TCC-PUC-Tech-Barbershop">TCC-PUC-Tech-Barbershop</a></b>: Barbershop management system with C#, .NET, and Azure 💈<br>
+  - <b><a href="https://github.com/GustavoMariano/Challenges-CSharp">Challenges-CSharp</a></b>: Coding challenges to flex my C# and Xunit skills 💻<br>
+  - <b><a href="https://github.com/GustavoMariano/RandomPokemon">RandomPokemonApi</a></b>: A fun RESTful API for Pokémon data using C# and Clean Architecture 🐾<br>
   <a href="https://github.com/GustavoMariano?tab=repositories">See more on my GitHub</a> ✨
 </p>
 
@@ -41,5 +42,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavomariano&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages"/>
 </p>
-
-
