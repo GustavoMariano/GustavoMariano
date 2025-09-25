@@ -6,7 +6,11 @@
 
 <h3 align="center">About Me</h3>
 <p align="center">
-  I'm a Backend Software Engineer from Brazil with 4+ years of experience in fintech and B2B. I love building scalable solutions with <b>C#</b>, <b>.NET Core</b>, and <b>Microsoft Azure</b> 🌐. Certified in Azure Fundamentals and Software Architecture, I’m all about clean code, TDD, and agile vibes 🚀. Willing to relocate for the right opportunity!
+  I'm a Backend Software Engineer from Brazil with 4+ years of experience in fintech and B2B. I love building scalable solutions with <b>C#</b>, <b>.NET Core</b>, and <b>Microsoft Azure</b> 🌐. 
+  <br>
+  Certified in Azure Fundamentals and Software Architecture, I’m all about clean code, TDD, and agile vibes 🚀. 
+  <br>
+  Willing to relocate for the right opportunity!
 </p>
 
 <h3 align="center">Cool Projects 🛠️</h3>
