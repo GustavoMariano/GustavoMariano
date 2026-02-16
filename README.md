@@ -15,6 +15,7 @@
 
 <h3 align="center">Cool Projects 🛠️</h3>
 <p align="center">
+  - <b><a href="https://github.com/GustavoMariano/OrderFlow">OrderFlow</a></b>: Event-driven order processing system with .NET 10, RabbitMQ, PostgreSQL, MongoDB and Docker 🚀<br>
   - <b><a href="https://github.com/GustavoMariano/YuGiOh-Unrestricted">Yu-Gi-Oh! Unrestricted</a></b>: A custom online card game built with Blazor Server, SignalR and EF Core 🎴<br>
   - <b><a href="https://github.com/GustavoMariano/TCC-PUC-Tech-Barbershop">TCC-PUC-Tech-Barbershop</a></b>: Barbershop management system with C#, .NET, and Azure 💈<br>
   - <b><a href="https://github.com/GustavoMariano/Challenges-CSharp">Challenges-CSharp</a></b>: Coding challenges to flex my C# and Xunit skills 💻<br>
